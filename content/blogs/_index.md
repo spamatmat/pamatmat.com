@@ -1,9 +1,9 @@
 ---
-date: "2017-10-31T22:27:21-05:00"
+date: "2024-06-19T12:06:21-05:00"
 draft: false
 image: pic02.jpg
 slug: blogs
-title: Lifestyle
+title: Things Are Funny Now
 ---
 
-My blogs about technology and lifestyle.
+A collection of notes and updates on a variety of topics.
